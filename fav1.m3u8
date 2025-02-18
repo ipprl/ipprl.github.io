@@ -37,6 +37,8 @@ http://live4play.uk/livehttpplay?channel_id=20041
 http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477070.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",Now爆谷
 http://hkenlive.uk/livehttpplay?channel_id=13002
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",Now星影
+http://hkenlive.uk/livehttpplay?channel_id=13003
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",ViUTV
 http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477538.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",广东体育
